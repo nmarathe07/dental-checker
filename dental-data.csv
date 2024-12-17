@@ -1,11 +1,28 @@
-Symptom,Condition,Urgency
-Tooth pain,Tooth decay,High (Immediate)
-Swollen gums,Gingivitis,Medium (Schedule)
-Bleeding gums,Periodontal disease,Medium (Schedule)
-Sensitivity to cold,Tooth sensitivity,Low (Monitor)
-Bad breath,Gum disease,Medium (Schedule)
-Cracked tooth,Tooth fracture,High (Immediate)
-Tooth sensitivity,Tooth enamel loss,Low (Monitor)
-Painful chewing,Abscess,High (Immediate)
-Red gums,Gingivitis,Medium (Schedule)
-Loose tooth,Periodontal disease,High (Immediate)
+Symptom,Condition,Urgency,Prevention
+Tooth pain,Tooth decay,High (Immediate),"Brush twice daily with fluoride toothpaste, floss regularly, avoid sugary foods and drinks, visit the dentist for routine checkups."
+Swollen gums,Gingivitis,Medium (Schedule),"Brush gently along the gumline, floss daily, use an antiseptic mouthwash, and visit the dentist if inflammation persists."
+Bleeding gums,Periodontal disease,Medium (Schedule),"Maintain good oral hygiene, avoid smoking, ensure regular dental checkups, and use fluoride toothpaste."
+Sensitivity to cold,Tooth sensitivity,Low (Monitor),"Use toothpaste designed for sensitive teeth, avoid acidic foods and drinks, and avoid brushing teeth too hard."
+Bad breath,Gum disease,Medium (Schedule),"Brush your tongue and teeth regularly, stay hydrated, avoid smoking, and visit the dentist to rule out underlying conditions."
+Cracked tooth,Tooth fracture,High (Immediate),"Avoid chewing hard objects like ice or pencils, wear a mouthguard during sports, and visit a dentist promptly for evaluation."
+Tooth sensitivity,Tooth enamel loss,Low (Monitor),"Use fluoride toothpaste, avoid acidic foods, drink water after meals, and avoid teeth grinding."
+Painful chewing,Abscess,High (Immediate),"Practice good oral hygiene, visit the dentist regularly, and avoid delaying treatment of dental pain or infection."
+Red gums,Gingivitis,Medium (Schedule),"Floss daily, brush gently along the gumline, and use an antiseptic mouthwash."
+Loose tooth,Periodontal disease,High (Immediate),"Avoid chewing hard foods, maintain good oral hygiene, and consult a dentist immediately for evaluation and treatment."
+Dry mouth,Xerostomia,Medium (Schedule),"Stay hydrated, avoid caffeine and alcohol, chew sugar-free gum, and use artificial saliva products if recommended by your dentist."
+Jaw pain,Temporomandibular joint disorder (TMJ),Medium (Schedule),"Avoid chewing gum, manage stress to prevent teeth grinding, and practice jaw relaxation exercises."
+Stained teeth,Surface discoloration,Low (Monitor),"Avoid tobacco, coffee, and tea; brush regularly with whitening toothpaste; and consider professional teeth cleaning if stains persist."
+Broken tooth,Dental trauma,High (Immediate),"Avoid chewing hard foods or objects, wear a mouthguard during sports, and visit a dentist promptly for repair."
+Mouth sores,Canker sores or ulcers,Low (Monitor),"Avoid spicy or acidic foods, practice good oral hygiene, stay hydrated, and use over-the-counter treatments for relief."
+Persistent bad taste,Oral infection,Medium (Schedule),"Practice good oral hygiene, avoid smoking, rinse with warm saltwater, and see a dentist to identify the underlying cause."
+Tooth discoloration,Pulpal necrosis,Medium (Schedule),"Avoid excessive use of teeth whitening products, practice good oral hygiene, and consult a dentist if discoloration worsens."
+Chipped tooth,Dental trauma,Medium (Schedule),"Avoid chewing hard foods or objects, wear a mouthguard during sports, and visit a dentist for cosmetic repair."
+White patches in mouth,Oral thrush,Medium (Schedule),"Maintain good oral hygiene, avoid excessive sugar, and seek treatment for any immune system issues if recurring."
+Pain at tooth root,Dental abscess,High (Immediate),"Seek immediate dental care, avoid chewing on the affected side, and maintain regular checkups to prevent recurrence."
+Pain in the cheek,Sinusitis,Low (Monitor),"Stay hydrated, use saline nasal sprays, and seek medical attention if symptoms persist."
+Popping sound in jaw,TMJ disorder,Medium (Schedule),"Avoid excessive jaw movement, avoid hard foods, and manage stress with relaxation techniques."
+Metallic taste in mouth,Gingivitis or early periodontitis,Medium (Schedule),"Floss daily, brush gently, and visit the dentist regularly for cleanings and treatment."
+Swelling around mouth,Facial cellulitis,High (Immediate),"Seek immediate dental care to address underlying infection, maintain good oral hygiene, and avoid delaying treatment of dental injuries or abscesses."
+Pain in wisdom teeth,Impacted wisdom tooth,High (Immediate),"Maintain oral hygiene in the back of the mouth, consult a dentist for evaluation, and remove impacted teeth if necessary."
+Sharp pain when biting,Cracked tooth syndrome,High (Immediate),"Avoid chewing hard foods, practice good oral hygiene, and visit the dentist for evaluation."
+Burning sensation in mouth,Burning mouth syndrome,Low (Monitor),"Stay hydrated, avoid spicy foods, and use mouthwashes with soothing ingredients like aloe vera or chamomile."
