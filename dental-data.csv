@@ -1,0 +1,11 @@
+Symptom,Condition,Urgency
+Tooth pain,Tooth decay,High (Immediate)
+Swollen gums,Gingivitis,Medium (Schedule)
+Bleeding gums,Periodontal disease,Medium (Schedule)
+Sensitivity to cold,Tooth sensitivity,Low (Monitor)
+Bad breath,Gum disease,Medium (Schedule)
+Cracked tooth,Tooth fracture,High (Immediate)
+Tooth sensitivity,Tooth enamel loss,Low (Monitor)
+Painful chewing,Abscess,High (Immediate)
+Red gums,Gingivitis,Medium (Schedule)
+Loose tooth,Periodontal disease,High (Immediate)
