@@ -11,7 +11,7 @@ def symptom_checker(symptom):
     if not result.empty:
         response = "Here are the matches we found:\n\n"
         for _, row in result.iterrows():
-            response += f"**Symptom:** {row['Symptom']}\n**Condition:** {row['Condition']}\n**Urgency:** {row['Urgency']}\n**Prevention:** {row['Prevention']}\n\n"
+            response += f"**Symptom:** {row['Symptom']}\n\n**Condition:** {row['Condition']}\n\n**Urgency:** {row['Urgency']}\n\n**Prevention:** {row['Prevention']}\n\n**What Not to Do:** {row['What Not to Do']}\n\n"
         return response
     else:
         return "Sorry, we couldn't find a match for that symptom. Please try again."
